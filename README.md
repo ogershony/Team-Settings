@@ -18,5 +18,5 @@ https://www.youtube.com/watch?v=SMVw6mWvbj4
 
 This provides an in-depth guide on how to access my program and use it.
 If you have any problems please put it in the comments section on the video.
-
+¡Warning! Please do this on an alternate account.
 
