@@ -9,7 +9,7 @@ How to use it:
 
 2. Navigate to the .exe and run it
 
-3. Fill out all the information.
+3. Fill out all the information (This includes a uhash so to find your uhash look at the video)
 
 
 
